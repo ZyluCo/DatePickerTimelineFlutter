@@ -2,6 +2,8 @@
 
 [![Pub](https://img.shields.io/pub/v/date_picker_timeline?color=%232bb6f6)](https://pub.dev/packages/date_picker_timeline)
 
+This package is the the fork of <a href="https://github.com/iamvivekkaushik/DatePickerTimelineFlutter">FlutterDatePickerTimeline. </a> Since the original package is updated 2 years ago, it is not compatible to dart 3 due to <a href="https://pub.dev/packages/intl"> intl </a> package, We uprade the intl dependency package to make it compatible to dart 3.
+
 Flutter Date Picker Library that provides a calendar as a horizontal timeline.
 
 <p>
